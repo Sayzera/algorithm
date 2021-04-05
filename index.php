@@ -41,22 +41,3 @@ echo '<pre>';
     [11] => 2
     [12] => 1
  */
-
- /**
-  * Burada 10 elemanlı bir dizi objesi olsun ve bunu 
-  * foreach ile okuyun 
-  * html içerisinde ul li yapısını kullanarak 
-  */
- $arr = [
-     [
-        'name' => 'Sezer',
-        'surname' => 'Bölük',
-        'age' => 25
-     ],
-     [
-        'name' => '...',
-        'surname' => '...',
-        'age' => '...'
-     ],
-
- ];
